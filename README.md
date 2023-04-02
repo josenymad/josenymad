@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript, HTML and CSS**
 
-- 📫 How to reach me **jose.wills3@gmail.com**
+- 📫 How to reach me - **jose.wills3@gmail.com**
 
 - ⚡ Fun fact - **I also make <a href='https://linktr.ee/jose.nymad'>music</a>**
 
