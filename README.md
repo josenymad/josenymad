@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Jose Wills</h1>
-<h3 align="center">I'm a software developer in training at Command Shift</h3>
+<h1 align="center">Hi 👋 I'm Jose Wills</h1>
+<h3 align="center">I'm a software developer in training and student at Command Shift</h3>
 
-- 🌱 I’m currently learning **JavaScript, HTML, CSS**
+- 🌱 I’m currently learning **JavaScript, HTML and CSS**
 
-- 📫 How to reach me **jose.wills3@gmail.com**
+- 📫 How to reach me: **jose.wills3@gmail.com**
 
-- ⚡ Fun fact **I also make music https://linktr.ee/jose.nymad**
+- ⚡ Fun fact: **I also make music https://linktr.ee/jose.nymad**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
