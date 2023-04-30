@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Jose Wills</h1>
-<h3 align="center">I'm a software developer in training and student at <a href='https://www.commandshift.co/'>Command Shift</a></h3>
+<h3 align="center">I'm a software developer and student at <a href='https://www.commandshift.co/'>Command Shift</a></h3>
 
 - 🌱 I’m currently learning **JavaScript, HTML, CSS and SQL**
 
