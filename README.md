@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Jose Wills</h1>
 <h3 align="center">I'm a software developer and student at <a href='https://www.commandshift.co/'>Command Shift</a></h3>
 
-- 🌱 I’m currently learning **Full-Stack Test Driven Development with JavaScript, HTML, CSS, SQL and Express**
+- 🌱 I’m currently learning **Full-Stack, Test Driven Development with JavaScript, HTML, CSS, SQL and Express**
 
 - 📫 How to reach me - **jose.wills3@gmail.com**
 
