@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋 I'm Jose Wills</h1>
 <h3 align="center">I'm a software developer and student at <a href='https://www.commandshift.co/'>Command Shift</a></h3>
 
-- 🌱 I’m currently learning **React**
-
 - 📫 How to reach me - **jose.wills3@gmail.com**
 
 - ⚡ Fun fact - **I also make <a href='https://linktr.ee/jose.nymad'>music</a>**
