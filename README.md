@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋 I'm Jose Wills</h1>
-<h3 align="center">I'm a software developer and <a href="https://www.commandshift.co/">Command Shift</a> graduate</h3> 
+<h3 align="center">I'm a software developer and <a href="https://www.commandshift.co/" target="_blank" rel="noreferrer">Command Shift</a> graduate</h3> 
 
 - 📫 How to reach me - **jose.wills3@gmail.com**
 
-- ⚡ Fun fact - **I also make <a href="https://linktr.ee/jose.nymad" target="_blank">music</a>**
+- ⚡ Fun fact - **I also make <a href="https://linktr.ee/jose.nymad" target="_blank" rel="noreferrer">music</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
