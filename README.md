@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋 I'm Jose Wills</h1>
-<h3 align="center">I'm a software developer and <a href="https://www.commandshift.co/" target="_blank" rel="noreferrer">Command Shift</a> graduate</h3> 
 
 - 📫 How to reach me - **jose.wills3@gmail.com**
 
